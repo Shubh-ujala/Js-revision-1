@@ -244,6 +244,15 @@ let step4= step3+1;           //3
 
 let random=Math.floor(Math.random()*10) +1;  //5
 
+/*let say if you want to generate random number from 10 to 20 then you can use the general formula which is applicable
+not only for 10 to 20 but also for any random two numbers 
+formula OR way 
+solution-> let min =10;
+           let max = 20;
+           console.log(Math.floor(Math.random()*(Max-min+1)+min))
+Remember here 10 ans 20 both inclusive
+*/
+
 //============================================================================================================
 //Day 10
 //Practice question
